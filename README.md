@@ -2,7 +2,7 @@
 A simple oxygen delivery system which supplies oxygen cylinders to the hospitals, by prioritizing using some conditions, using Travelling Salesman Problem
 
 The Travelling Salesman Problem (often
-called TSP) is a classic algorithmic problem in the fieldof
+called TSP) is a classic algorithmic problem in the field of
 computer science and operations research. It is focused
 on optimization. In this context better solution often
 means a solution that is cheaper. TSP is a mathematical
